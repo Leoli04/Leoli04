@@ -21,7 +21,7 @@
 | **company-work-platform** | 公司内部系统快速跳转平台，集中管理研发部所有内部系统入口 | [🌐 演示](https://leoli04.github.io/company-work-platform/) | [📦 仓库](https://github.com/Leoli04/company-work-platform) |
 | **template-vue3-admin** | Vue3 + Vite 后台管理模板 | [🌐 演示](https://leoli04.github.io/template-vue3-admin/) | [📦 仓库](https://github.com/Leoli04/template-vue3-admin) |
 | **knowledge-inoutput** | 粘贴链接自动提取内容并生成图文总结文档 | — | [📦 仓库](https://github.com/Leoli04/knowledge-inoutput) |
-| **prompt-optimizer** | 一款提示词优化器，助力编写高质量的提示词 | [🌐 演示](https://leo-prompt-optimizer.vercel.app/) | [📦 仓库](https://github.com/Leoli04/prompt-optimizer) |
+| **prompt-optimizer** | 一款提示词优化器，助力编写高质量的提示词 | [🌐 演示](https://leos-prompt-optimizer-extension.vercel.app/) | [📦 仓库](https://github.com/Leoli04/prompt-optimizer) |
 
 ## 🧩 自建模板项目
 开箱即用的项目脚手架，方便快速启动同类项目：
