@@ -9,7 +9,7 @@
 - 📚 持续学习者，关注工程效率与开发者体验
 
 ## 📊 我的技术画像
-![技术画像](https://raw.githubusercontent.com/Leoli04/Leoli04/main/tech-profile.svg)
+![repos](https://leoli04.github.io/repocensus/badges/repos.svg) ![stars](https://leoli04.github.io/repocensus/badges/stars.svg) ![health](https://leoli04.github.io/repocensus/badges/health.svg) ![active](https://leoli04.github.io/repocensus/badges/active.svg) ![languages](https://leoli04.github.io/repocensus/badges/languages.svg)
 
 > 由 [RepoCensus](https://github.com/Leoli04/repocensus) 自动生成 · 覆盖 305 个仓库（自建 / Fork / Star）
 
